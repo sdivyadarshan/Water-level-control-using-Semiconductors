@@ -58,7 +58,7 @@ The actual relay module input polarity and the final transistor interconnections
 
 ## Demonstration
 
-**Demo video:** Not yet linked. Add the video URL in [media/README.md](media/README.md), then replace this line with the public video link.
+**Demo video:** [Watch the project demonstration on Google Drive](https://drive.google.com/file/d/1DhBhlKVPV7b_-XlEsNI3Unidxb3AcQnh/view?usp=sharing).
 
 **Project photographs:** Add clear photographs of the complete breadboard, probe arrangement and relay/pump connections in the `media/` directory.
 
